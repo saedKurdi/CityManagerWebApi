@@ -1,0 +1,6 @@
+@CityManagerApiLesson13_HostAddress = http://localhost:5033
+
+GET {{CityManagerApiLesson13_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
